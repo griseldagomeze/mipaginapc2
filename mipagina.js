@@ -6,7 +6,7 @@ function ocultar(n) {
          }
 
 
-//Mi calculadora
+
 function sumar(){
    var a=Number(document.getElementById("entrada1").value);
    var b=Number(document.getElementById("entrada2").value);
@@ -59,27 +59,9 @@ setInterval(actualizar,1000); //iniciar temporizador
 
 function myFunction1(){
 
-document.getElementById("parrafo1").innerHTML ="La presente Ley tiene por objeto normar la creación, funcionamiento, supervisión y cierre
-de las universidades. Promueve el mejoramiento continuo de la calidad educativa de las instituciones universitarias como entes fundamentales del desarrollo nacional, de la investigación y de la cultura.
-Asimismo, establece los principios, fines y funciones que rigen el modelo institucional de la universidad.";}
-
-function myFunction2(){
-
-document.getElementById("parrafo2").innerHTML = "Las universidades públicas y privadas pueden integrarse en redes interregionales, con criterios de calidad, pertinencia y responsabilidad social, a fin de brindar una formación de calidad, centrada en la investigación y la formación de profesionales en el nivel de
-pregrado y posgrado.";
+document.getElementById("parrafo1").innerHTML ="La presente Ley tiene por objeto normar la creación, funcionamiento, supervisión y cierre de las universidades";
 }
 
-function myFunction3(){
-document.getElementById("parrafo3").style.fontSize = "45px";
-}
-function myFunction4(){
-document.getElementById("parrafo4").style.display = "none";
-}
-
-
-function myFunction5(){
-document.getElementById("parrafo5").style.color = "green";
-}
 
 
 
