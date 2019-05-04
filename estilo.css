@@ -1,0 +1,31 @@
+table {
+width: 90%;
+text-align:center;
+}
+
+button {
+width: 100%;
+font-size: 150%;
+}
+
+tr{
+  border-style: solid;
+  border-width: 2px 10px 4px 20px;
+background-color:#ffffff;
+    padding: 5px;
+ 
+
+button{
+ background-color:lightblue;
+ color:#040b1e;
+    }
+
+.morado {
+  border-top-style: white;
+  border-right-style: white;
+  border-bottom-style: dotted;
+  border-left-style: white;
+}
+p{text-align: justify;
+ font-family: monospace;
+}
